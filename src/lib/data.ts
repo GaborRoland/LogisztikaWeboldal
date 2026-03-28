@@ -268,3 +268,10 @@ export const industries = [
     icon: "Factory",
   },
 ];
+
+export const companyStats = [
+  { value: "500+", label: "Happy Clients" },
+  { value: "10,000+", label: "Monthly Deliveries" },
+  { value: "50+", label: "Countries Served" },
+  { value: "15+", label: "Years Experience" },
+];
