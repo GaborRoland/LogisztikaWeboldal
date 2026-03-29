@@ -1,5 +1,9 @@
 # LogisztikaWeboldal – SwiftLogix
 
+🌍 **Nyelv / Language:** [🇭🇺 Magyar](README.md) · [🇬🇧 English](README.en.md)
+
+---
+
 A **SwiftLogix** egy modern, B2B logisztikai és ellátásilánc-menedzsment vállalat marketing weboldala, amely [Next.js 14](https://nextjs.org/) (App Router), TypeScript és Tailwind CSS v4 technológiákra épül.
 
 ---
