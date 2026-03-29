@@ -24,8 +24,8 @@ A weboldal célja, hogy bemutassa a SwiftLogix által kínált logisztikai szolg
 | Réteg | Technológia |
 |-------|-------------|
 | Framework | Next.js 16 (React 19) |
-| Nyelv | TypeScript 5 |
-| Stílus | Tailwind CSS 4 + PostCSS |
+| Nyelv | TypeScript 5.x |
+| Stílus | Tailwind CSS 4.x + PostCSS |
 | Ikonok | lucide-react |
 | Routing | Next.js App Router |
 | Renderelés | Server + Client Components |
